@@ -1,0 +1,27 @@
+header{
+	text-align: center;
+}
+
+header a{
+	color: #24C9C9;
+	margin: 20px;
+	font-style:italic;
+}
+body{
+	background-color:#F5F5F5;
+	color:#121212; 
+}
+
+header a h1 {
+	display:inline;
+}
+header a h4{
+	display :inline;
+}
+footer{
+	text-align: center;
+}
+
+.centered{
+	text-align: center;
+}
